@@ -3,5 +3,5 @@ name = "sc-knockout-analysis"
 version = "0.1.0"
 description = "Quick single-cell knockout analysis"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = ["ipykernel>=7.2.0", "ipywidgets>=8.1.8", "s3fs>=2026.2.0", "scanpy>=1.12"]
+requires-python = ">=3.11"
+dependencies = ["helical>=1.8.0", "ipykernel>=7.2.0", "ipywidgets>=8.1.8", "scanpy>=1.11"]
